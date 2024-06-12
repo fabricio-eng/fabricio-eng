@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabricio-eng
 - 👀 I’m interested in empregos vizando a área de engenharia de software
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning : estou cursando no momento engenharia de software
 - 📫 How to reach me : fabricinvlk24@gmail.com
 - ⚡ Fun fact: sou proativo 
 
