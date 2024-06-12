@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fabricio-eng
 - 👀 I’m interested in empregos vizando a área de engenharia de software
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : fabricinvlk24@gmail.com
 - ⚡ Fun fact: sou proativo 
 
